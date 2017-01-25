@@ -9,11 +9,12 @@ a classifier for houses. The housing data contains features for each house like 
 ##Dependencies
 
 * matplotlib
-* tensorflow (https://www.tensorflow.org/get_started/os_setup)
+* [tensorflow](https://www.tensorflow.org/get_started/os_setup)
 * pandas
 * numpy
 
 Install dependencies using [pip](https://pip.pypa.io/en/stable/)
+Install jupyter notebook using [this](http://jupyter.readthedocs.io/en/latest/install.html)
 
 ##Usage
 
